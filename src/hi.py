@@ -1,2 +1,2 @@
-print("yes")
+aaaaaaaaaaaaaaaaa
 print("no")
